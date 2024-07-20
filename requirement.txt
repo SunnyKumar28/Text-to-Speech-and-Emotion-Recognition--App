@@ -1,6 +1,6 @@
 streamlit==1.22.0
 numpy==1.23.5
-librosa==0.10.0
+librosa==
 requests==2.31.0
 tensorflow==2.14.0
 scikit-learn==1.2.2
