@@ -4,7 +4,6 @@ librosa==0.10.2.post1
 requests==2.31.0
 tensorflow==2.14.0
 scikit-learn==1.2.2
-pickle
 audioread==3.0.0
 scipy==1.11.1
 soundfile==0.12.1
