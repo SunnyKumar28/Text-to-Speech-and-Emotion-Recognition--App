@@ -4,15 +4,15 @@ You can view the live demo of the app here: [Streamlit App](https://text-to-spee
 
 # 🎤 AI Voiceover with Emotion
 
-## 🎯 Objective
+##  Objective
 
 my 0goal is 3to develop an AI/ML model that enhances AI-generated voiceovers by accurately capturing and conveying emotions in the input sentences. This solution aims to make AI voiceovers more natural, engaging, and effective by integrating appropriate emotional cues.
 
-## 🌟 Overview
+##  Overview
 
 The project revolves around creating an intelligent system capable of generating and recognizing emotionally expressive audio based on the sentiment of the input statement. The system will utilize advanced natural language processing (NLP) and machine learning (ML) techniques to analyze the text and generate corresponding audio with the intended emotion. We will be integrating the Typecast API to achieve high-quality voiceovers.
 
-## 🛠️ Key Features
+## 🛠 Key Features
 
 - **Emotion-Driven Audio Generation**
   - Generate audio with emotions such as happiness, excitement, anger, sadness, and politeness.
@@ -28,7 +28,7 @@ The project revolves around creating an intelligent system capable of generating
 - **Emotion Variety**
   - Accurate generation and recognition of basic emotions with potential for additional emotions for bonus points.
 
-## 🚀 Example Use Cases
+##  Example Use Cases
 
 
 - **Expressing Happiness**
@@ -44,13 +44,13 @@ The project revolves around creating an intelligent system capable of generating
   - Input: "Could you please pass the salt?"
   - Output: Audio with a polite and courteous tone.
 
-## 🌈 Benefits
+##  Benefits
 
 - **Enhanced User Engagement:** Emotionally expressive AI voiceovers make content more engaging and relatable.
 - **Improved Communication:** AI voiceovers can convey messages more effectively and authentically by accurately reflecting emotions.
 - **Versatile Applications:** Usable in various domains, including education, entertainment, customer service, and more.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Programming Languages:** Python
 - **Libraries and Frameworks:**
@@ -63,7 +63,7 @@ The project revolves around creating an intelligent system capable of generating
   - Jupyter Notebook for prototyping and development
   - Git for version control
   - Docker for containerization
- ## 📂 Implementation Steps
+ ##  Implementation Steps
 
 ### Data Collection and Preprocessing
 
